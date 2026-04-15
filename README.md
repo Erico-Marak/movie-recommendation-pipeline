@@ -50,7 +50,6 @@ The Movie Recommendation System provides intelligent movie suggestions using **c
 - **Backend**: Django 6.0, Python 3.10+
 - **ML/Data**: scikit-learn, pandas, numpy, scipy
 - **Storage**: Parquet (efficient data format)
-- **Deployment**: Render, Heroku, Docker compatible
 
 ---
 
